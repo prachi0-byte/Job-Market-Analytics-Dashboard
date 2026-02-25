@@ -24,24 +24,6 @@ The goal of this project is to extract meaningful insights such as hiring trends
 - Power BI
 - GitHub
 
----
-
-## 📂 Project Structure
-Job-Market-Analytics-Dashboard/
-├── data/
-│   └── job_market_analytics_data.csv
-├── python/
-│   ├── data_cleaning.ipynb
-│   └── exploratory_analysis.ipynb
-├── sql/
-│   ├── database_schema.sql
-│   ├── analysis_queries.sql
-│   └── insights_queries.sql
-├── powerbi/
-│   └── job_market_dashboard.pbix
-├── images/
-│   └── dashboard_preview.png
-└── README.md
 
 ---
 
