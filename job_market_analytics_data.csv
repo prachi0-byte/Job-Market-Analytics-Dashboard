@@ -1,0 +1,201 @@
+title,company,location,salary_min,salary_max,avg_salary,date_posted
+Senior Data Analyst,TCS,"Delhi, India",578787,805311,692049.0,2026-01-23
+Senior Data Analyst,Accenture,"Mumbai, Maharashtra",1060928,1267043,1163985.5,2025-10-18
+Data Analyst,HCLTech,"Delhi, India",534227,634769,584498.0,2025-11-27
+Junior Data Analyst,Deloitte,"Ahmedabad, Gujarat",1122270,1392501,1257385.5,2025-12-03
+Junior Data Analyst,Tech Mahindra,"Delhi, India",1172875,1292034,1232454.5,2025-12-17
+Senior Data Analyst,Deloitte,"Delhi, India",1109058,1366436,1237747.0,2025-11-24
+Senior Data Analyst,HCLTech,"Remote, India",735582,822027,778804.5,2025-12-28
+Data Analyst,Infosys,"Delhi, India",1086339,1179237,1132788.0,2025-12-06
+Senior Data Analyst,HCLTech,"Bangalore, Karnataka",486456,664508,575482.0,2026-01-09
+Business Analyst,HCLTech,"Chennai, Tamil Nadu",1190126,1377672,1283899.0,2025-12-19
+Senior Data Analyst,Infosys,"Hyderabad, Telangana",684328,907042,795685.0,2025-10-31
+Data Analyst,Accenture,"Remote, India",409509,708496,559002.5,2025-11-18
+Junior Data Analyst,TCS,"Ahmedabad, Gujarat",400935,490938,445936.5,2026-01-05
+Business Analyst,Accenture,"Delhi, India",1120491,1268578,1194534.5,2025-12-16
+Data Analyst Intern,TCS,"Hyderabad, Telangana",891539,1045145,968342.0,2025-12-06
+Data Analyst Intern,Tech Mahindra,"Ahmedabad, Gujarat",1006338,1250313,1128325.5,2025-12-11
+Business Analyst,Capgemini,"Delhi, India",831228,1087980,959604.0,2025-12-16
+Business Analyst,TCS,"Hyderabad, Telangana",553139,818927,686033.0,2025-12-16
+Senior Data Analyst,Deloitte,"Chennai, Tamil Nadu",973652,1183658,1078655.0,2025-12-20
+Data Analyst Intern,Accenture,"Pune, Maharashtra",588153,877353,732753.0,2025-11-12
+Data Analyst,TCS,"Chennai, Tamil Nadu",901592,975467,938529.5,2025-11-21
+Junior Data Analyst,Wipro,"Bangalore, Karnataka",618536,764051,691293.5,2025-12-01
+Business Analyst,TCS,"Chennai, Tamil Nadu",1062171,1295117,1178644.0,2025-11-17
+Business Analyst,HCLTech,"Chennai, Tamil Nadu",1120004,1317813,1218908.5,2025-10-02
+Data Analyst Intern,Tech Mahindra,"Pune, Maharashtra",567608,651466,609537.0,2025-11-06
+Data Analyst Intern,TCS,"Mumbai, Maharashtra",954722,1024816,989769.0,2025-11-17
+Data Analyst Intern,Infosys,"Remote, India",1067628,1178266,1122947.0,2026-01-26
+Data Analyst,Infosys,"Remote, India",852930,974496,913713.0,2025-12-09
+Junior Data Analyst,Accenture,"Bangalore, Karnataka",342393,479966,411179.5,2025-12-15
+Data Analyst Intern,Infosys,"Delhi, India",678219,751491,714855.0,2026-01-02
+Senior Data Analyst,TCS,"Mumbai, Maharashtra",995782,1228197,1111989.5,2025-10-02
+Senior Data Analyst,Wipro,"Ahmedabad, Gujarat",388008,454866,421437.0,2025-11-28
+Junior Data Analyst,Infosys,"Pune, Maharashtra",756853,831182,794017.5,2025-10-28
+Data Analyst Intern,Capgemini,"Bangalore, Karnataka",367218,613163,490190.5,2025-11-21
+Data Analyst,Accenture,"Bangalore, Karnataka",1123409,1330748,1227078.5,2025-12-26
+Data Analyst,Tech Mahindra,"Pune, Maharashtra",738619,993559,866089.0,2025-12-17
+Data Analyst,Capgemini,"Delhi, India",701509,866728,784118.5,2026-01-08
+Senior Data Analyst,Deloitte,"Delhi, India",952780,1213556,1083168.0,2025-10-22
+Data Analyst Intern,HCLTech,"Hyderabad, Telangana",1127971,1249453,1188712.0,2025-12-31
+Junior Data Analyst,HCLTech,"Remote, India",1090646,1156593,1123619.5,2025-10-01
+Data Analyst,Tech Mahindra,"Delhi, India",496205,626556,561380.5,2025-10-22
+Junior Data Analyst,Capgemini,"Pune, Maharashtra",531384,651274,591329.0,2026-01-18
+Senior Data Analyst,Deloitte,"Hyderabad, Telangana",389785,681498,535641.5,2025-10-14
+Junior Data Analyst,Deloitte,"Mumbai, Maharashtra",833592,1012714,923153.0,2025-12-23
+Data Analyst,Infosys,"Bangalore, Karnataka",686355,836648,761501.5,2025-12-16
+Junior Data Analyst,Deloitte,"Bangalore, Karnataka",1138233,1433342,1285787.5,2025-12-17
+Data Analyst Intern,Tech Mahindra,"Delhi, India",1090473,1308728,1199600.5,2025-10-14
+Business Analyst,Tech Mahindra,"Pune, Maharashtra",1086627,1243707,1165167.0,2025-10-26
+Senior Data Analyst,HCLTech,"Hyderabad, Telangana",439203,672132,555667.5,2025-12-13
+Senior Data Analyst,Wipro,"Ahmedabad, Gujarat",824326,1002187,913256.5,2025-10-14
+Data Analyst Intern,Infosys,"Chennai, Tamil Nadu",1100429,1214160,1157294.5,2025-11-09
+Data Analyst,Accenture,"Remote, India",746238,952135,849186.5,2025-10-16
+Business Analyst,Capgemini,"Mumbai, Maharashtra",427198,629259,528228.5,2025-10-09
+Data Analyst Intern,Infosys,"Pune, Maharashtra",685355,815370,750362.5,2025-10-17
+Data Analyst,Tech Mahindra,"Hyderabad, Telangana",676378,875677,776027.5,2025-11-10
+Junior Data Analyst,Infosys,"Pune, Maharashtra",1191857,1329454,1260655.5,2025-10-19
+Data Analyst Intern,Deloitte,"Remote, India",458100,541907,500003.5,2026-01-16
+Business Analyst,HCLTech,"Delhi, India",459858,609015,534436.5,2025-12-22
+Business Analyst,Accenture,"Delhi, India",790483,854511,822497.0,2025-12-03
+Data Analyst,Infosys,"Remote, India",606766,893125,749945.5,2025-10-25
+Business Analyst,Deloitte,"Hyderabad, Telangana",954665,1239301,1096983.0,2025-10-18
+Senior Data Analyst,HCLTech,"Remote, India",753166,818298,785732.0,2025-10-07
+Senior Data Analyst,Accenture,"Hyderabad, Telangana",473199,621812,547505.5,2026-01-16
+Data Analyst,Accenture,"Delhi, India",889854,1146371,1018112.5,2025-11-24
+Data Analyst,Deloitte,"Ahmedabad, Gujarat",962636,1095945,1029290.5,2026-01-07
+Data Analyst,Tech Mahindra,"Bangalore, Karnataka",434236,570213,502224.5,2026-01-08
+Data Analyst Intern,Capgemini,"Mumbai, Maharashtra",688973,787727,738350.0,2026-01-13
+Data Analyst Intern,Tech Mahindra,"Chennai, Tamil Nadu",590515,664302,627408.5,2025-11-23
+Data Analyst,Tech Mahindra,"Bangalore, Karnataka",444950,630255,537602.5,2026-01-13
+Business Analyst,Capgemini,"Ahmedabad, Gujarat",507255,720560,613907.5,2025-12-04
+Data Analyst,Infosys,"Ahmedabad, Gujarat",1197295,1363930,1280612.5,2025-11-02
+Data Analyst,Tech Mahindra,"Chennai, Tamil Nadu",1059748,1198113,1128930.5,2026-01-13
+Business Analyst,Tech Mahindra,"Chennai, Tamil Nadu",602876,842948,722912.0,2025-10-20
+Data Analyst Intern,Wipro,"Bangalore, Karnataka",565624,664383,615003.5,2026-01-05
+Junior Data Analyst,Wipro,"Delhi, India",494931,757789,626360.0,2025-11-18
+Senior Data Analyst,Accenture,"Chennai, Tamil Nadu",643692,894060,768876.0,2026-01-15
+Senior Data Analyst,HCLTech,"Bangalore, Karnataka",1025662,1267100,1146381.0,2025-11-04
+Senior Data Analyst,Capgemini,"Pune, Maharashtra",973745,1067489,1020617.0,2025-11-15
+Senior Data Analyst,HCLTech,"Chennai, Tamil Nadu",878403,1074768,976585.5,2025-10-03
+Junior Data Analyst,Deloitte,"Pune, Maharashtra",604741,779994,692367.5,2025-10-31
+Senior Data Analyst,Deloitte,"Mumbai, Maharashtra",634289,720740,677514.5,2025-12-11
+Business Analyst,HCLTech,"Chennai, Tamil Nadu",318931,588886,453908.5,2026-01-04
+Data Analyst Intern,TCS,"Ahmedabad, Gujarat",1134311,1291305,1212808.0,2025-11-07
+Senior Data Analyst,Accenture,"Mumbai, Maharashtra",1110884,1280768,1195826.0,2026-01-25
+Senior Data Analyst,Wipro,"Ahmedabad, Gujarat",878364,995189,936776.5,2026-01-06
+Junior Data Analyst,Tech Mahindra,"Bangalore, Karnataka",596795,795685,696240.0,2026-01-07
+Senior Data Analyst,Tech Mahindra,"Chennai, Tamil Nadu",332186,457079,394632.5,2025-11-20
+Business Analyst,Wipro,"Pune, Maharashtra",683153,810494,746823.5,2025-11-17
+Senior Data Analyst,Accenture,"Mumbai, Maharashtra",489738,620382,555060.0,2026-01-13
+Business Analyst,Tech Mahindra,"Remote, India",1191396,1270803,1231099.5,2025-10-21
+Data Analyst,Tech Mahindra,"Ahmedabad, Gujarat",947017,1068482,1007749.5,2025-10-06
+Business Analyst,Tech Mahindra,"Pune, Maharashtra",710548,950199,830373.5,2025-10-29
+Data Analyst Intern,Tech Mahindra,"Ahmedabad, Gujarat",471492,662595,567043.5,2025-12-20
+Junior Data Analyst,HCLTech,"Pune, Maharashtra",1098740,1232763,1165751.5,2025-11-17
+Junior Data Analyst,Accenture,"Ahmedabad, Gujarat",324055,452977,388516.0,2026-01-05
+Business Analyst,TCS,"Ahmedabad, Gujarat",1157746,1413172,1285459.0,2025-10-14
+Data Analyst,Infosys,"Mumbai, Maharashtra",417570,678132,547851.0,2025-11-30
+Data Analyst Intern,Capgemini,"Hyderabad, Telangana",964612,1120900,1042756.0,2026-01-28
+Data Analyst Intern,Accenture,"Delhi, India",317096,422529,369812.5,2025-10-24
+Senior Data Analyst,Capgemini,"Mumbai, Maharashtra",741684,1000623,871153.5,2025-11-23
+Junior Data Analyst,HCLTech,"Chennai, Tamil Nadu",542047,793405,667726.0,2026-01-27
+Senior Data Analyst,Infosys,"Mumbai, Maharashtra",1153306,1249707,1201506.5,2025-12-17
+Junior Data Analyst,Wipro,"Bangalore, Karnataka",960076,1189537,1074806.5,2025-10-06
+Business Analyst,Tech Mahindra,"Hyderabad, Telangana",897866,1001563,949714.5,2026-01-21
+Data Analyst Intern,Accenture,"Chennai, Tamil Nadu",593436,651751,622593.5,2025-11-06
+Data Analyst,Accenture,"Pune, Maharashtra",619527,802270,710898.5,2025-11-13
+Junior Data Analyst,Capgemini,"Mumbai, Maharashtra",353769,629172,491470.5,2025-12-10
+Business Analyst,HCLTech,"Chennai, Tamil Nadu",465388,595106,530247.0,2025-10-04
+Data Analyst Intern,Accenture,"Remote, India",611786,890561,751173.5,2026-01-23
+Junior Data Analyst,Wipro,"Remote, India",761936,963618,862777.0,2026-01-01
+Data Analyst Intern,Wipro,"Bangalore, Karnataka",700547,920742,810644.5,2025-11-01
+Business Analyst,Tech Mahindra,"Delhi, India",954355,1196181,1075268.0,2025-10-21
+Junior Data Analyst,Infosys,"Hyderabad, Telangana",366484,429149,397816.5,2025-11-10
+Business Analyst,Wipro,"Delhi, India",345541,529149,437345.0,2025-12-23
+Senior Data Analyst,Accenture,"Delhi, India",913237,1002102,957669.5,2026-01-25
+Senior Data Analyst,Capgemini,"Ahmedabad, Gujarat",620135,757925,689030.0,2026-01-25
+Data Analyst Intern,Infosys,"Pune, Maharashtra",1100202,1292329,1196265.5,2025-12-21
+Data Analyst,Tech Mahindra,"Pune, Maharashtra",1198963,1428347,1313655.0,2025-11-25
+Data Analyst,HCLTech,"Pune, Maharashtra",978230,1210119,1094174.5,2025-12-04
+Data Analyst Intern,Tech Mahindra,"Chennai, Tamil Nadu",955903,1221220,1088561.5,2025-12-16
+Business Analyst,Accenture,"Delhi, India",866287,969231,917759.0,2025-11-17
+Business Analyst,Capgemini,"Bangalore, Karnataka",1104145,1288997,1196571.0,2025-10-20
+Senior Data Analyst,HCLTech,"Pune, Maharashtra",364186,546429,455307.5,2025-11-17
+Senior Data Analyst,HCLTech,"Mumbai, Maharashtra",365561,479152,422356.5,2025-11-10
+Business Analyst,TCS,"Ahmedabad, Gujarat",470737,764851,617794.0,2025-12-11
+Data Analyst,Infosys,"Ahmedabad, Gujarat",453778,723335,588556.5,2025-10-28
+Data Analyst Intern,Tech Mahindra,"Mumbai, Maharashtra",464018,663480,563749.0,2025-11-30
+Junior Data Analyst,Deloitte,"Bangalore, Karnataka",349412,537656,443534.0,2025-10-24
+Data Analyst Intern,Infosys,"Mumbai, Maharashtra",533308,648002,590655.0,2025-10-02
+Senior Data Analyst,HCLTech,"Ahmedabad, Gujarat",1158206,1213301,1185753.5,2025-12-01
+Junior Data Analyst,Accenture,"Ahmedabad, Gujarat",607560,691548,649554.0,2025-12-29
+Junior Data Analyst,Deloitte,"Chennai, Tamil Nadu",799563,864766,832164.5,2025-10-12
+Senior Data Analyst,Wipro,"Hyderabad, Telangana",355597,434995,395296.0,2025-10-16
+Data Analyst Intern,TCS,"Remote, India",1146908,1230455,1188681.5,2026-01-18
+Business Analyst,Infosys,"Delhi, India",964901,1195330,1080115.5,2025-11-10
+Data Analyst,Deloitte,"Pune, Maharashtra",1010603,1165732,1088167.5,2026-01-20
+Data Analyst,Capgemini,"Chennai, Tamil Nadu",573622,732830,653226.0,2026-01-14
+Senior Data Analyst,Tech Mahindra,"Pune, Maharashtra",475578,661101,568339.5,2026-01-29
+Business Analyst,HCLTech,"Hyderabad, Telangana",621550,699117,660333.5,2026-01-17
+Data Analyst,Infosys,"Remote, India",691227,989837,840532.0,2025-10-03
+Junior Data Analyst,TCS,"Mumbai, Maharashtra",349188,450917,400052.5,2025-12-30
+Data Analyst,Tech Mahindra,"Pune, Maharashtra",676896,845552,761224.0,2025-11-01
+Senior Data Analyst,Deloitte,"Hyderabad, Telangana",867696,1148234,1007965.0,2025-11-17
+Junior Data Analyst,HCLTech,"Bangalore, Karnataka",927465,1199500,1063482.5,2025-12-27
+Business Analyst,Capgemini,"Mumbai, Maharashtra",657840,887681,772760.5,2026-01-12
+Business Analyst,HCLTech,"Delhi, India",899085,1052986,976035.5,2026-01-19
+Senior Data Analyst,Deloitte,"Ahmedabad, Gujarat",911393,1154696,1033044.5,2025-10-06
+Data Analyst Intern,Tech Mahindra,"Ahmedabad, Gujarat",871134,1006147,938640.5,2026-01-21
+Senior Data Analyst,TCS,"Bangalore, Karnataka",1017682,1256996,1137339.0,2025-10-15
+Business Analyst,Wipro,"Ahmedabad, Gujarat",798106,947007,872556.5,2025-11-12
+Data Analyst Intern,HCLTech,"Ahmedabad, Gujarat",1041302,1151274,1096288.0,2025-11-30
+Data Analyst Intern,Wipro,"Remote, India",405961,515445,460703.0,2025-12-04
+Business Analyst,HCLTech,"Chennai, Tamil Nadu",1167793,1220851,1194322.0,2026-01-29
+Data Analyst,TCS,"Chennai, Tamil Nadu",1170642,1429356,1299999.0,2025-10-26
+Junior Data Analyst,Tech Mahindra,"Remote, India",1055812,1242872,1149342.0,2026-01-20
+Data Analyst Intern,TCS,"Mumbai, Maharashtra",840155,989806,914980.5,2025-12-06
+Business Analyst,Accenture,"Bangalore, Karnataka",672245,930933,801589.0,2025-12-08
+Business Analyst,Capgemini,"Mumbai, Maharashtra",778593,836061,807327.0,2025-10-13
+Business Analyst,Wipro,"Bangalore, Karnataka",806997,934884,870940.5,2025-10-24
+Data Analyst Intern,Tech Mahindra,"Hyderabad, Telangana",1113860,1354000,1233930.0,2025-10-08
+Junior Data Analyst,Infosys,"Bangalore, Karnataka",477027,642824,559925.5,2026-01-22
+Senior Data Analyst,Capgemini,"Remote, India",483422,775333,629377.5,2025-10-16
+Data Analyst,Deloitte,"Ahmedabad, Gujarat",757778,977356,867567.0,2026-01-25
+Senior Data Analyst,TCS,"Ahmedabad, Gujarat",359358,588561,473959.5,2025-11-08
+Senior Data Analyst,Tech Mahindra,"Delhi, India",661074,778991,720032.5,2025-11-06
+Data Analyst Intern,Wipro,"Remote, India",1043795,1302068,1172931.5,2026-01-09
+Junior Data Analyst,Deloitte,"Bangalore, Karnataka",1007755,1114648,1061201.5,2025-11-24
+Junior Data Analyst,Accenture,"Hyderabad, Telangana",1117559,1357041,1237300.0,2025-11-05
+Data Analyst,Wipro,"Delhi, India",343503,472072,407787.5,2025-10-09
+Senior Data Analyst,TCS,"Ahmedabad, Gujarat",956609,1091484,1024046.5,2026-01-21
+Data Analyst,Wipro,"Ahmedabad, Gujarat",374848,426820,400834.0,2025-10-03
+Data Analyst Intern,HCLTech,"Hyderabad, Telangana",524483,622845,573664.0,2026-01-03
+Senior Data Analyst,Deloitte,"Chennai, Tamil Nadu",949769,1170978,1060373.5,2025-12-16
+Business Analyst,HCLTech,"Delhi, India",629502,740127,684814.5,2025-12-10
+Business Analyst,Deloitte,"Ahmedabad, Gujarat",462633,555797,509215.0,2025-12-27
+Junior Data Analyst,Tech Mahindra,"Delhi, India",864914,1081829,973371.5,2025-10-26
+Data Analyst Intern,Wipro,"Ahmedabad, Gujarat",915575,1204589,1060082.0,2025-12-16
+Junior Data Analyst,Tech Mahindra,"Delhi, India",322200,503927,413063.5,2025-12-17
+Junior Data Analyst,Accenture,"Delhi, India",718138,796476,757307.0,2025-12-18
+Senior Data Analyst,Tech Mahindra,"Mumbai, Maharashtra",455229,614120,534674.5,2025-12-13
+Junior Data Analyst,Deloitte,"Delhi, India",827859,984240,906049.5,2026-01-15
+Data Analyst Intern,TCS,"Delhi, India",626679,730442,678560.5,2025-12-11
+Business Analyst,Wipro,"Pune, Maharashtra",466279,741433,603856.0,2025-10-14
+Data Analyst,Wipro,"Chennai, Tamil Nadu",589518,697352,643435.0,2026-01-09
+Data Analyst,Wipro,"Hyderabad, Telangana",573445,676680,625062.5,2025-11-10
+Business Analyst,Infosys,"Hyderabad, Telangana",445796,670537,558166.5,2025-12-17
+Senior Data Analyst,Deloitte,"Mumbai, Maharashtra",663358,731049,697203.5,2025-12-23
+Data Analyst Intern,Accenture,"Mumbai, Maharashtra",376477,459122,417799.5,2025-12-28
+Senior Data Analyst,Capgemini,"Pune, Maharashtra",1067193,1166959,1117076.0,2025-10-25
+Business Analyst,Tech Mahindra,"Bangalore, Karnataka",1099817,1332862,1216339.5,2026-01-14
+Senior Data Analyst,Capgemini,"Hyderabad, Telangana",1191607,1250993,1221300.0,2025-10-24
+Business Analyst,TCS,"Chennai, Tamil Nadu",1054810,1214097,1134453.5,2025-11-07
+Data Analyst Intern,HCLTech,"Remote, India",760546,946961,853753.5,2025-12-16
+Senior Data Analyst,Infosys,"Delhi, India",686198,981292,833745.0,2025-10-10
+Data Analyst Intern,TCS,"Chennai, Tamil Nadu",1108935,1161291,1135113.0,2025-10-27
+Business Analyst,Deloitte,"Delhi, India",428107,609775,518941.0,2025-12-14
+Data Analyst Intern,HCLTech,"Delhi, India",706627,778923,742775.0,2026-01-19
+Data Analyst Intern,TCS,"Remote, India",795910,923930,859920.0,2025-11-14
+Business Analyst,Deloitte,"Delhi, India",374716,649247,511981.5,2025-12-27
+Junior Data Analyst,Deloitte,"Remote, India",1168140,1443401,1305770.5,2025-12-05
